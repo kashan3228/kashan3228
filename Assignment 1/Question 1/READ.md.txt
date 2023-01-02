@@ -1,0 +1,7 @@
+Input speed (s) 
+
+S = S* 0.00044704 
+
+Print S
+
+Output answer

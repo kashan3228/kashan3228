@@ -1,0 +1,19 @@
+Input Age (A)
+
+Input Gender (G)
+
+Input Distance (D)
+
+If (A < 18)
+
+Print 5 pkr
+
+Else
+
+Print 10Pkr
+
+D= 5km - D
+
+T: D*F
+
+Output Answer (T)

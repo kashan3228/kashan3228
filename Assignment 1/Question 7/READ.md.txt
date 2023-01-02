@@ -1,0 +1,29 @@
+Date of Birth (DOB)
+
+Input year of Birth (YOR)
+
+Input month of Birth (MOB) 
+
+Input Current Date (CD) 
+
+Input curent month (CM) 
+
+Input Current Year (CY)
+
+If YOB>CY
+
+then again input CY : current Year
+
+else if DOB >31 
+
+then again input DOB : Date of Birth
+
+else if MOB&&CM
+
+then again input MOB&&CM
+
+Else
+
+CD-DOB, CM-MOB, CY-YOB
+
+Outpat Age

@@ -1,0 +1,25 @@
+Input number (n)
+
+If n < 0
+
+Print not possible.
+
+Else
+
+Sum=0, m=given number (n)
+
+Repeat until the number is equal to 0
+
+If yes print m and s 
+
+# m&s is variable
+
+Else
+
+remainder = number%10
+
+Sum=Sum+remainder
+
+num=num/10 
+
+Print or return the Sum

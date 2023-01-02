@@ -1,0 +1,11 @@
+Input Age (A)
+
+If (A < 18)
+
+Answer Adult
+
+Else
+
+Print minor 
+
+Output Answer

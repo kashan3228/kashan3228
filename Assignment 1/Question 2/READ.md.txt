@@ -1,0 +1,13 @@
+Input n
+
+remainder = n%2 
+
+if remainder is not equal to 0
+
+Answer = odd
+
+Else
+
+Answer = even 
+
+Output Answer

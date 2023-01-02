@@ -1,0 +1,19 @@
+Input integer (1)
+
+If I>0 then 
+
+I: I-1
+
+Repeat until the given integer becomes 0
+
+Else if
+
+I<0 then
+
+I← I-1
+
+Repeat until the condition get true
+
+Else
+
+Print wrong Input

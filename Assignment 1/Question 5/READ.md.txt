@@ -1,0 +1,51 @@
+Input Digit (ED)
+
+a=(a:1111110=ABCDEF)
+
+b=(b:1101101=ABDEG)
+
+c=(c:0110000=BC)
+
+d=(d:1111001=ABCDG)
+
+e=(e:0110011=BCFG)
+
+f=(f:1011011=ACDFG)
+
+g=(g:1011111=ABDEFG)
+
+h=(h:1110000=ABC)
+
+if ED=a
+
+Print 0
+
+Else if ED=b
+
+Print 1
+
+else if ED=c
+
+Print 2
+
+Else if DE=d
+
+Print 3
+
+Else if ED=e
+
+Print 4
+
+Else if ED=f
+
+Print 5
+
+Else if ED=g
+
+Print 6
+
+Else if ED=h
+
+Print 7
+
+Else Print Wring Output
